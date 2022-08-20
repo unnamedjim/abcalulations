@@ -1,0 +1,43 @@
+{
+  "taxes": {
+    "corporate_tax": {
+      "rate": 0.206,
+      "se_name": "Vinstskatt företag"
+    },
+
+    "salary_tax": {
+      "rate": 0.3142,
+      "se_name": "Arbetsgivaravgifter"
+    },
+
+    "community_tax": {
+      "rate": 0.2021,
+      "se_name": "Kommunalskatt"
+    },
+
+    "regional_tax": {
+      "rate": 0.1118,
+      "se_name": "Regionskatt"
+    },
+
+    "state_tax": {
+      "rate": 0.2,
+      "se_name": "Statlig skatt"
+    },
+
+    "church_fee": {
+      "rate": 0.0103,
+      "se_name": "Avgift Svenska kyrkan"
+    },
+
+    "burial_fee": {
+      "rate": 0.00261,
+      "se_name": "Begravningsavgift"
+    },
+
+    "capital_tax": {
+      "rate": 0.3,
+      "se_name": "Kapitalskatt"
+    }
+  }
+}

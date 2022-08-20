@@ -1,0 +1,12 @@
+{
+  "partners": [
+    {
+      "name": "Partner 1",
+      "share": "0.80"
+    },
+    {
+      "name": "Partner 2",
+      "share": "0.20"
+    }
+  ]
+}
