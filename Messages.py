@@ -1,8 +1,10 @@
 class Messages:
 
     def __init__(self):
-        self.welcome = """
         
+        # Sorry for the bad formatting, but it shows correctly this way
+        # This comment is valid for all the strings in this class
+        self.welcome = """
         
 Välkommen till skattekalylatorn!
 Det är gjord för att enkelt skapa en uppfattning om skillnaden mellan att ta ut vinst som lön eller utdelning.

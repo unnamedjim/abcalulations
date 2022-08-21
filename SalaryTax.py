@@ -25,7 +25,7 @@ class SalaryTax:
         tax_list = []
 
         # Calculate Salary Tax
-        salary_tax_amount = self.profit * (1 - (1 / ( 1 + self.salary_tax)))
+        salary_tax_amount = self.profit * (1 - (1 / (1 + self.salary_tax)))
         tax_list.append(salary_tax_amount)
 
         # Calculate the salary

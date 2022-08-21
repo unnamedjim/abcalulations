@@ -36,6 +36,3 @@ class DividendTax:
         tax_list.append(capital_tax_amount)
 
         return tax_list
-
-        
-
